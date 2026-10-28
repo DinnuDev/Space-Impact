@@ -1,0 +1,6 @@
+{
+  "name": "Space Impact Neo",
+  "description": "A faithful yet modern recreation of the legendary Nokia Space Impact arcade shooter featuring classic weapons, distinct bosses, scoring system, and retro LCD/modern neo-arcade themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
